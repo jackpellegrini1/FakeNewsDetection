@@ -5,7 +5,4 @@ import matplotlib.pyplot as plt
 import time
 
 # import data
-real = pd.read_csv("True.csv")
-fake = pd.read_csv("Fake.csv")
-
-real.head()
+print("hi")
